@@ -16,12 +16,18 @@ body {
 }
 
 .jumbotron h1 {
+    font-family: 'Baloo Bhaina', cursive;
     font-size: 150px;
     color:red;
 }
 
 h2 {
+    font-family: 'Baloo Bhaina', cursive;
     color:red;
+}
+
+li {
+    font-size: 25px;
 }
 
 .row {
@@ -30,5 +36,10 @@ h2 {
 }
 
 .blackboard{
+    font-family: 'Reenie Beanie', cursive;
+}
+
+form {
+    font-size: 40px;
     font-family: 'Reenie Beanie', cursive;
 }
